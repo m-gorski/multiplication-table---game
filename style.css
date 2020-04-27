@@ -368,7 +368,7 @@ div.startGame {
         border-radius: 10px;
     }
 
-    div.scoreBoard {
+    /*div.scoreBoard {
         position: relative;
         width: 80%;
         height: 60%;
@@ -385,6 +385,10 @@ div.startGame {
         font-size: 25px;
         display: none;
         text-align: center;
+    }*/
+    
+    div.scoreBoard {
+        height: 200px;
     }
 
     div.gameTime {
