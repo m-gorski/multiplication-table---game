@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <title>GAME</title>
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed&display=swap&subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="wrapper">
+
+        <div class="boxGame">
+
+            <div class="tableGame">
+                <!--		div z wynikiem rozgrywki -->
+                <div class="scoreBoard" id="scoreBoard">
+                       Correct answers:  <span id="correctAnswers">0</span><br>
+                        Wrong answers: <span id="wrongAnswers">0</span>
+                </div>
+
+                <!--			 div z pytaniem -->
+                <div class="questions" id="question">
+
+                </div>
+
+                <!--			 divy z odpowiedziami -->
+                <div class="answers" id="answer">
+                    <div id="box1" class="box"></div>
+                    <div id="box2" class="box"></div>
+                    <div id="box3" class="box"></div>
+                    <div id="box4" class="box"></div>
+                </div>
+                <div class="startGame" id="startReset">
+                    PLAY
+                </div>
+                <div class="gameTime" id="timeRemaining">
+                    TIME: <span id="timeRemainingValue">30</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="file.js"></script>
+</body></html>
