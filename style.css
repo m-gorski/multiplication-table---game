@@ -93,7 +93,8 @@ div.answers {
 div.box {
     height: 100px;
     width: 100px;
-    background-color: white;
+    /*background-color: white;*/
+    background-color: green;
     line-height: 100px;
     text-align: center;
     font-weight: bold;
