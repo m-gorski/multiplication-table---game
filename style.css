@@ -449,3 +449,8 @@ div.startGame {
 body{
     backgorund-color: white !important;
 }
+
+.title{
+    color: white;
+    text-transform: uppercase;
+}
