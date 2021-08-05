@@ -71,7 +71,8 @@ div.questions {
     right: 10%;
     height: 100px;
     width: 80%;
-    background-color: #434547;
+    /*background-color: #434547;*/
+    background-color: gray;
     border-radius: 10px;
     text-align: center;
     line-height: 100px;
