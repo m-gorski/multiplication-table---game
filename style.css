@@ -358,7 +358,7 @@ div.startGame {
         transform: translate(-50%, -50%);
         width: 50vw;
         height: 70vh;
-        background-color: #0D0F11;
+        background-color: red;
         padding: 20px 20px;
         border-radius: 10px;
     }
@@ -422,7 +422,7 @@ div.startGame {
     div.box {
         height: 85px;
         width: 100px;
-        background-color: white;
+        background-color: red;
         line-height: 100px;
         text-align: center;
         font-family: 'Saira Extra Condensed';
