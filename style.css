@@ -9,7 +9,7 @@
 
 body {
     /*background-color: #0D0F11;*/
-    background-color: dark-gray;
+    background-color: white;
 }
 
 div.wrapper {
@@ -367,7 +367,7 @@ div.startGame {
         position: relative;
         width: 100%;
         height: 100%;
-        background-color: #0D0F11;
+        background-color: white;
         border-radius: 10px;
     }
     
